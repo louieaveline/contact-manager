@@ -73,9 +73,3 @@ Contact added successfully.
 - All data is saved in a binary file named `contacts.dat`.
 - Maximum number of contacts is currently 100 (can be increased).
 
----
-
-## 🧑‍💻 Author
-
-Developed by Louie  
-[github.com/0x50714](https://github.com/0x50F14)
